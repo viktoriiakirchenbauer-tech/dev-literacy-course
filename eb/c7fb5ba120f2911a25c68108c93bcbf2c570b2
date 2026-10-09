@@ -1,0 +1,19 @@
+.gitignore
+  s_401c2026b8a729::t_2ef0aca4797736 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ebc7fb5ba120f2911a25c68108c93bcbf2c570b2",
+  "prompts": {},
+  "sessions": {
+    "s_401c2026b8a729": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "70361bd0-4480-4e7b-9586-56ee9351285c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "viktoriiakirchenbauer-tech <viktoriiakirchenbauer-tech@users.noreply.github.com>"
+    }
+  }
+}
