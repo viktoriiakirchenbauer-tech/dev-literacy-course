@@ -1,0 +1,29 @@
+assets/app.js
+  s_401c2026b8a729::t_287890538984b4 1-184
+assets/styles.css
+  s_401c2026b8a729::t_d6045340695c20 1-339
+assets/lessons.js
+  s_401c2026b8a729::t_65368aa08c688a 1-657
+index.html
+  s_401c2026b8a729::t_46d887c52ee18d 1-42
+assets/widgets.js
+  s_401c2026b8a729::t_1c9e4c1405a90e 1-330
+README.md
+  s_401c2026b8a729::t_13f899da9220ed 7-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e13a2aa2b2e2ea23c4d263d7d857b4208ad8020b",
+  "prompts": {},
+  "sessions": {
+    "s_401c2026b8a729": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "70361bd0-4480-4e7b-9586-56ee9351285c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "viktoriiakirchenbauer-tech <viktoriiakirchenbauer-tech@users.noreply.github.com>"
+    }
+  }
+}
