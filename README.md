@@ -4,6 +4,15 @@ A self-paced course to help you understand how developers build web apps with Re
 
 You don't need to learn to code. The goal is **fluency, not production** — you want to understand what devs mean, ask sharper questions, spot design implications early, and know *why* a dev says "that's a backend thing" or "we'll need a new endpoint for that."
 
+## 🎓 Interactive version (recommended)
+
+There are **two ways** to take this course:
+
+1. **Interactive web app** — `index.html`. A proper e-learning experience with sidebar navigation, progress tracking, light/dark mode, end-of-topic quizzes, and **animated widgets** for the hardest concepts (the request/response "waiter trip", polling vs. webhooks, React state re-rendering, and fetch loading/error states). **To open it: double-click `index.html`** (it runs fully offline, no install needed).
+2. **Plain reading** — the numbered `.md` files below, nicely rendered right here on GitHub.
+
+Same content, two formats — use whichever you prefer.
+
 ## How to use this
 
 - Read the topics in order the first time — each builds on the last.

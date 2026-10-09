@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dev Literacy for UX Designers — Interactive Course</title>
+  <meta name="description" content="An interactive e-learning course helping UX designers understand React, webhooks, fetch, APIs, and dev vocabulary." />
+  <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <h1>🎓 Dev Literacy</h1>
+        <p>for UX Designers</p>
+      </div>
+      <div class="progress-wrap">
+        <div class="progress-label"><span>Your progress</span><span id="progressText">0 / 9 topics</span></div>
+        <div class="progress-track"><div class="progress-bar" id="progressBar"></div></div>
+      </div>
+      <ul class="nav" id="nav"></ul>
+    </aside>
+
+    <div class="scrim" id="scrim"></div>
+
+    <div class="main">
+      <header class="topbar">
+        <button class="icon-btn menu-btn" id="menuBtn" aria-label="Open menu">☰</button>
+        <span class="crumb" id="crumb">Course home</span>
+        <span class="spacer"></span>
+        <button class="icon-btn" id="themeBtn" aria-label="Toggle theme">🌙</button>
+      </header>
+      <main class="content" id="content"></main>
+    </div>
+  </div>
+
+  <script src="assets/lessons.js"></script>
+  <script src="assets/widgets.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
